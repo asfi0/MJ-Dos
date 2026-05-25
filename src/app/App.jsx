@@ -15,8 +15,8 @@ import Distributor from '../domains/distributor/index.jsx'
 import Admin from '../domains/admin/index.jsx'
 
 const DOMAINS = {
-  hr: HR, finance: Finance, operations: Operations, compliance: Compliance,
-  reporting: Reporting, documentation: Documentation, investor: Investor,
+  documentation: Documentation, hr: HR, finance: Finance, operations: Operations, compliance: Compliance,
+  reporting: Reporting, investor: Investor,
   distributor: Distributor, admin: Admin,
 }
 
